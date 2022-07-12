@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.7.8)  8 JUN 2022 15:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.7.8)  11 JUL 2022 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -78,48 +78,53 @@ Overfull \hbox (17.99998pt too wide) in paragraph at lines 38--45
 
 {/Users/eccleskm/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 212--225
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 266--269
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
 
  []
 
-[5] [6] ) 
+[6] ) 
 Here is how much of TeX's memory you used:
- 494 strings out of 480477
- 8242 string characters out of 5898168
+ 495 strings out of 480477
+ 8250 string characters out of 5898168
  306579 words of memory out of 5000000
- 18280 multiletter control sequences out of 15000+600000
+ 18281 multiletter control sequences out of 15000+600000
  406542 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,8n,55p,423b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/eccleskm/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
-c/tcbx1000.600pk></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx10.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/font
-s/type1/public/amsfonts/cm/cmcsc10.pfb></Users/eccleskm/Library/TinyTeX/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/eccleskm/Library/TinyTeX/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/eccleskm/Library/Tiny
-TeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on eccles_cv.pdf (6 pages, 113964 bytes).
+ </Users/eccleskm/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tc
+bx1000.600pk></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmcsc10.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/eccleskm/Library/TinyTeX/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/eccleskm/Library/TinyTeX/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on eccles_cv.pdf (6 pages, 114482 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
