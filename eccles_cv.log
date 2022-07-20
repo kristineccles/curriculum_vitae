@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.7.8)  11 JUL 2022 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.7.8)  20 JUL 2022 11:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -69,41 +69,47 @@ Overfull \hbox (15.07501pt too wide) in paragraph at lines 41--42
  
  []
 
-
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 38--45
-[][] 
- []
-
 [1
 
 {/Users/eccleskm/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+Overfull \hbox (0.79807pt too wide) in paragraph at lines 104--105
+\OT1/cmr/m/n/10 bur-den.\OT1/cmr/m/it/10 Environmental tox-i-col-ogy and chem-i
+stry\OT1/cmr/m/n/10 .39(12), 2516-2526. https://doi.org/10.1002/etc.4876 
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--229
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 267--270
+Underfull \hbox (badness 10000) in paragraph at lines 270--273
 
  []
 
@@ -111,11 +117,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--270
 Here is how much of TeX's memory you used:
  495 strings out of 480477
  8250 string characters out of 5898168
- 306579 words of memory out of 5000000
+ 307579 words of memory out of 5000000
  18281 multiletter control sequences out of 15000+600000
  406542 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 48i,8n,55p,423b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,8n,55p,468b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/eccleskm/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tc
 bx1000.600pk></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx10.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1/pub
@@ -124,7 +130,7 @@ pe1/public/amsfonts/cm/cmcsc10.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/eccleskm/Library/TinyTeX/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/eccleskm/Library/TinyTeX/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on eccles_cv.pdf (6 pages, 114482 bytes).
+Output written on eccles_cv.pdf (6 pages, 114963 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
