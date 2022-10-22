@@ -1,59 +1,52 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.7.8)  19 SEP 2022 08:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  21 OCT 2022 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **eccles_cv.tex
 (./eccles_cv.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-06-18> (./res.cls
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-(/Users/eccleskm/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(/Users/eccleskm/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
 )
 No auxiliary output files.
 
-\tabular@text=\toks16
-\tabular@head=\toks17
-\tabular@tail=\toks18
-\@ta=\toks19
-\undefined@token=\toks20
-\sectionwidth=\dimen139
-\sectionskip=\skip49
-\resumewidth=\dimen140
-\@columnwidth=\dimen141
-\c@numberofcolumns=\count190
-)
-(/Users/eccleskm/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfte
-x.def
-File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count191
-\l__pdf_internal_box=\box50
+\tabular@text=\toks14
+\tabular@head=\toks15
+\tabular@tail=\toks16
+\@ta=\toks17
+\undefined@token=\toks18
+\sectionwidth=\dimen103
+\sectionskip=\skip43
+\resumewidth=\dimen104
+\@columnwidth=\dimen105
+\c@numberofcolumns=\count87
 )
 No file eccles_cv.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
@@ -69,71 +62,79 @@ Overfull \hbox (15.07501pt too wide) in paragraph at lines 41--42
  
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
-
- []
-
 [1
 
-{/Users/eccleskm/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Overfull \hbox (0.79807pt too wide) in paragraph at lines 106--107
-\OT1/cmr/m/n/10 bur-den.\OT1/cmr/m/it/10 Environmental tox-i-col-ogy and chem-i
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (6.42026pt too wide) in paragraph at lines 111--112
+\OT1/cmr/m/n/10 bur-den.\OT1/cmr/m/it/10 Environmental Tox-i-col-ogy and Chem-i
 stry\OT1/cmr/m/n/10 .39(12), 2516-2526. https://doi.org/10.1002/etc.4876 
  []
 
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no á in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
 [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--192
+Underfull \hbox (badness 10000) in paragraph at lines 192--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--229
+Underfull \hbox (badness 10000) in paragraph at lines 219--232
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 270--273
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
 
  []
 
 [6] ) 
 Here is how much of TeX's memory you used:
- 495 strings out of 480477
- 8250 string characters out of 5898168
- 307579 words of memory out of 5000000
- 18281 multiletter control sequences out of 15000+600000
- 406542 words of font info for 37 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 48i,8n,55p,468b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/eccleskm/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tc
-bx1000.600pk></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx10.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmcsc10.pfb></Users/eccleskm/Library/TinyTeX/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/eccleskm/Library/TinyTeX/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/eccleskm/Library/TinyTeX/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on eccles_cv.pdf (6 pages, 115380 bytes).
+ 300 strings out of 493014
+ 3197 string characters out of 6133351
+ 58827 words of memory out of 5000000
+ 3924 multiletter control sequences out of 15000+600000
+ 6412 words of font info for 23 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,8n,21p,456b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on eccles_cv.pdf (6 pages, 110358 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 47 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
