@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  24 MAR 2023 13:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  27 JUL 2023 14:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -63,28 +63,48 @@ Overfull \hbox (15.07501pt too wide) in paragraph at lines 41--42
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no á in font cmr10!
+
+Overfull \hbox (36.03987pt too wide) in paragraph at lines 101--102
+\OT1/cmr/m/n/10 Priolo (east-ern Sicily, Italy). \OT1/cmr/m/it/10 Chemo-sphere\
+OT1/cmr/m/n/10 , 333, 138802. https://doi.org/10.1016/j.chemosphere.2023.138802
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (18.51125pt too wide) in paragraph at lines 103--105
+Overfull \hbox (18.51125pt too wide) in paragraph at lines 108--110
 \OT1/cmr/m/n/10 (PEGS). \OT1/cmr/m/it/10 Jour-nal of ex-po-sure sci-ence & en-v
 i-ron-men-tal epidemiology\OT1/cmr/m/n/10 .1-8. https://doi.org/10.1038/s41370-
 
  []
 
 
-Overfull \hbox (6.42026pt too wide) in paragraph at lines 117--118
+Overfull \hbox (6.42026pt too wide) in paragraph at lines 122--123
 \OT1/cmr/m/n/10 bur-den.\OT1/cmr/m/it/10 Environmental Tox-i-col-ogy and Chem-i
 stry\OT1/cmr/m/n/10 .39(12), 2516-2526. https://doi.org/10.1002/etc.4876 
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
 [2]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -92,18 +112,21 @@ Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 226--251
+Underfull \hbox (badness 10000) in paragraph at lines 231--256
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 292--295
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
 
  []
 
@@ -111,11 +134,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--295
 Here is how much of TeX's memory you used:
  300 strings out of 493014
  3197 string characters out of 6133351
- 58827 words of memory out of 5000000
+ 59827 words of memory out of 5000000
  3924 multiletter control sequences out of 15000+600000
  6412 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,21p,456b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,466b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.
 pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.p
@@ -123,7 +146,7 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on eccles_cv.pdf (6 pages, 119089 bytes).
+Output written on eccles_cv.pdf (6 pages, 119762 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
