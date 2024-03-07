@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 MAR 2024 15:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 MAR 2024 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -108,26 +108,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--155
 
  []
 
-[3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 234--259
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 263--267
+[3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 238--263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--310
+Underfull \hbox (badness 10000) in paragraph at lines 267--271
 
  []
 
-[6] ) 
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 312--314
+
+ []
+
+[7] ) 
 Here is how much of TeX's memory you used:
  300 strings out of 493014
  3197 string characters out of 6133351
- 59827 words of memory out of 5000000
+ 58827 words of memory out of 5000000
  3924 multiletter control sequences out of 15000+600000
  6412 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -139,10 +139,10 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on eccles_cv.pdf (6 pages, 120428 bytes).
+Output written on eccles_cv.pdf (7 pages, 120925 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
