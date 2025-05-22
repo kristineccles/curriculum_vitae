@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 MAR 2025 09:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  22 MAY 2025 09:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -238,6 +238,12 @@ Overfull \hbox (15.07501pt too wide) in paragraph at lines 42--43
  
  []
 
+
+Overfull \hbox (7.11427pt too wide) in paragraph at lines 97--98
+[]\OT1/cmr/m/n/10 Cho, E., Baird, S., \OT1/cmr/bx/n/10 Ec-cles, K.M. \OT1/cmr/m
+/n/10 (2025). Smaller Scale, Same Im-pact: Repli-cat-ing High-Throughputh
+ []
+
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -262,26 +268,21 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¸ in font cmr10!
  [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 271--296
+Underfull \hbox (badness 10000) in paragraph at lines 272--299
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 301--305
+Underfull \hbox (badness 10000) in paragraph at lines 304--308
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 359.
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 356.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 356.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 356.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 359.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 359.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 359.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 359.
  ) 
 Here is how much of TeX's memory you used:
  5146 strings out of 493014
@@ -290,7 +291,7 @@ Here is how much of TeX's memory you used:
  8686 multiletter control sequences out of 15000+600000
  6412 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,21p,481b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,21p,481b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -298,7 +299,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on eccles_cv.pdf (7 pages, 125775 bytes).
+Output written on eccles_cv.pdf (7 pages, 127011 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
