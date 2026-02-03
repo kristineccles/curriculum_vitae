@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  21 JAN 2026 13:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 FEB 2026 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -238,6 +238,8 @@ Overfull \hbox (15.07501pt too wide) in paragraph at lines 41--42
  
  []
 
+Missing character: There is no Â in font cmr10!
+Missing character: There is no µ in font cmr10!
 
 Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
@@ -248,10 +250,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (7.11427pt too wide) in paragraph at lines 106--107
+Overfull \hbox (7.11427pt too wide) in paragraph at lines 108--109
 []\OT1/cmr/m/n/10 Cho, E., Baird, S., \OT1/cmr/bx/n/10 Ec-cles, K.M. \OT1/cmr/m
 /n/10 (2025). Smaller Scale, Same Im-pact: Repli-cat-ing High-Throughputh
  []
@@ -262,11 +269,10 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no  in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ‡ in font cmr10!
-[2]
+[2] [3]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [3]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -276,22 +282,22 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¸ in font cmr10!
  [4] [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 283--310
+Underfull \hbox (badness 10000) in paragraph at lines 285--312
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--319
+Underfull \hbox (badness 10000) in paragraph at lines 317--321
 
  []
 
 [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 372.
  [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 370.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 370.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 370.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 372.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 372.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 372.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 372.
  ) 
 Here is how much of TeX's memory you used:
  5147 strings out of 493014
@@ -308,10 +314,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on eccles_cv.pdf (8 pages, 129140 bytes).
+Output written on eccles_cv.pdf (8 pages, 129494 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 126 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  9 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
